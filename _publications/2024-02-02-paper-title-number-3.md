@@ -2,11 +2,9 @@
 title: "Query Recovery from Easy to Hard: Jigsaw Attack against SSE"
 collection: publications
 permalink: /publication/2024-02-02-paper-title-number-3
-excerpt: ''
 date: 2024-02-02
 venue: 'USENIX Security (A* conference)'
 paperurl: 'https://arxiv.org/abs/2403.01155'
-citation: ''
 ---
 
 Searchable symmetric encryption schemes often unintentionally disclose certain sensitive information, such as access, volume, and search patterns. Attackers can exploit such leakages and other available knowledge related to the user's database to recover queries. We find that the effectiveness of query recovery attacks depends on the volume or frequency distribution of keywords. Queries containing keywords with high volumes or frequencies are more susceptible to recovery, even when countermeasures are implemented. Attackers can also effectively leverage these "special" queries to recover all others.
