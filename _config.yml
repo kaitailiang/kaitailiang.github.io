@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : #
+title                    : "Kaitai Liang"
 title_separator          : #"-"
 name                     : &name "Kaitai"
 description              : &description "Good Day"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Kaitai Liang"
+  name             : #
   pronouns         : # example: "she/her"  
   bio              : "Tenured faculty member of cybersecurity group @EEMCS"
   location         : "Delft, The Netherlands"
