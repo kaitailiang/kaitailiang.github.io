@@ -7,43 +7,71 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Dr. Liang is a tenured faculty member (UD1) of the Cybersecurity group at Delft University of Technology. He received his PhD degree at City University of Hong Kong. He worked as an information security researcher at I2R (A*STAR, Singapore), post-doctoral researcher at Aalto University (Finland, supported by AoF funding), and held a permanent assistant professor position in secure systems at the University of Surrey, before joining TU Delft. During his PhD and post-doctoral studies, he was a visiting researcher at KU Leuven (Belgium), UCL (United Kingdom), IBM, and Northeastern University (United States). With over 10 years experiences on cybersecurity R&D, his main focus is on the design and implementation of cryptographic protocols to security. 
 
-A data-driven personal website
+He has led as a PI in several European funded projects, e.g., TANGO, ASSURED, IRIS, and delivered real-world impact via these projects with academic and industrial partners (e.g., IBM, Fujitsu, NEC, EIT Manufacturing, BIBA, ATOS, UBITECH). He has published a series of research works, applying information security and crypto tools to address cybersecurity challenges. These publications have appeared in high-tier international information security journals and A* conferences, e.g., USENIX Security, NDSS, ESORICS (where he was honored with the Best Research Paper Award in 2015), Asiacrypt, IEEE TIFS, and IEEE TDSC. 
+
+Beyond his research contributions, Dr. Liang has played an active role in the academic community. He has served as a Technical Program Committee, General Chair, and Steering Committee member for renowned international security and privacy conferences, including USENIX Security, IEEE EuroS&P, ESORICS, IEEE CSF, and PoPETs. Furthermore, he has made valuable contributions to ISO standards as a member of the standards committee 381027 "Cybersecurity & Privacy" at NEN. In addition to his academic pursuits, Dr. Liang serves as an Associate Editor for esteemed journals such as the Computer Journal, IEEE Systems Journal, IEEE Transactions on Artificial Intelligence, and the EURASIP Journal on Information Security. Furthermore, he acts as a cybersecurity consultant for SMEs, sharing his expertise and guidance in the field. 
+
+Recognizing his contributions to higher education, Dr. Liang is a Fellow of The Higher Education Academy. Since 2016, he has been actively involved in the design, teaching, and evaluation of international Master's and Bachelor's courses in countries such as Finland, the UK, and the Netherlands.
+
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Data protection, privacy-preserving federated learning, attacks on AI \& secure systems, blockchain R\&D. Please take a look at the research outputs, with references on [Google Scholar top publication venues](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography), [core conference/journal ranking](http://portal.core.edu.au/conf-ranks/) and [CSRankings: Cybersecurity](https://csrankings.org/#/index?sec&nl).  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Research Projects
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. REWIRE: REWiring the ComposItional Security VeRification and AssurancE of Systems of Systems Lifecycle (No. 101070627) and spans on the period 2022-2025, Primary Investigator. REWIRE envisions a holistic framework for continuous security assessment of open-source and open-specification hardware and software for IoT devices and the development of cybersecurity certification in accordance with the requirements and guidelines of recent EU Cybersecurity Act. 
+1. TANGO: Digital Technologies ActiNg as a Gatekeeper to information and data flOws (No. 101070052, 2022-2025), Primary Investigator. TANGO will establish a stronger cross-sector data sharing, in a citizen-centric, secure and trustworthy manner, by developing innovative solutions while addressing environmental degradation and climate change challenges. 
+1. IRIS: H2020-SU-DS-2020, (no. 101021727, 36 months, 2021-2024), Primary Investigator. IRIS aims to establish the first dedicated online training and cyber exercises to prepare CERTs/CSIRTs to collaboratively protect critical infrastructures and systems against cross-border AI and IoT threats. Pilot demonstrators will be conducted in Helsinki, Tallinn, and Barcelona.
+1. ASSURED H2020-SU-ICT-2018-2020, (no. 952697, 36 months, 2020-2023), Primary Investigator. ASSURED introduces an innovative, formally verified runtime assurance framework for securing CPS supply chains: by leveraging edge computing ecosystems, a universal distributed solution is developed for the transformation of CPSoS into distributed safety-critical CPSoS solutions, hosting multiple mixed-criticality applications. Completed.  
+1. CUREX funded by the European Commission, H2020-SC1-FA-DTS-2018-1/SU-TDS-02-2018 (36 months, 2018-2021), Co-Investigator. Completed. 
+1. SPEAR funded by the European Commission, H2020-DS-SC7-2017/DS-07-2017-RIA (36 months, 2018-2021), Co-Investigator. Completed. 
+1. SECONDO funded by the European Commission, H2020-MSCA-RISE-2018/ENG, (48 months, 2018-2022), Co-Investigator. Completed.  
+1. FutureTPM funded by the European Commission, H2020-DS-2016-2017/DS-06-2017-RIA, (36 months, 2017-2020), Co-Investigator. Completed. 
 
-Site-wide configuration
+Selected Academic Activities 
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Conference contributions: 
 
-Create content & metadata
+- [IEEE CSF](https://csf2024.ieee-security.org/) steering committee and 2024 general chair, 
+
+- [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html) publicity chair,
+
+- [USENIX Security](https://www.usenix.org/conference/usenixsecurity24) TPC member 2024, 
+
+- [IEEE EuroS&P 2023](https://eurosp2023.ieee-security.org/) general chair and TPC member 2024, 
+
+- [ESORICS 2023](https://esorics2023.org/) general chair and TPC member 2018 - 2022, 2024, 
+
+- [PoPETs](https://petsymposium.org/cfp24.php) editorial board member 2024, 
+
+- [SecureComm 2022](https://securecomm.eai-conferences.org/2022/) general chair,
+
+- other TPC members, session chairs, publicity chairs: ACNS, ACM ASIACCS, ARES, CANS, ISC, SecureComm, etc.  
+
+Associate editor: 
+
+- [The Computer Journal](https://academic.oup.com/comjnl/pages/Editorial_Board) (2021 - current), 
+
+- [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications) (2022 - current), 
+
+- [IEEE Open Journal of the Communication Society](https://www.comsoc.org/publications/journals/ieee-ojcoms) (2023 - current), 
+
+- [IEEE Transactions on Artificial Intelligence](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) (2021 - current), 
+
+- [IEEE Systems Journal](https://ieeesystemsjournal.org/journal-of-boards/) (2020-2024), 
+
+- Guest editor for the [Journal of Computer Security](https://www.iospress.com/catalog/journals/journal-of-computer-security).
+
+
+NEN cybersecurity and privacy committee, ISO/IEC SC27 Work Group 2 (former UK). 
+
+Fellow of The Higher Education Academy (UK). 
+
+
+Supervision 
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+We have a group of Bachelor, MSc, PhD and Post-doc researchers working in several cybersecurity topics, please take a look at our CRYPTAI Lab. 
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
