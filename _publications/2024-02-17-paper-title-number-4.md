@@ -2,11 +2,9 @@
 title: "d-DSE: Distinct Dynamic Searchable Encryption Resisting Volume Leakage in Encrypted Databases"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: ''
 date: 2024-02-17
 venue: 'USENIX Security (A* conference)'
 paperurl: 'https://arxiv.org/abs/2403.01182'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
 Dynamic Searchable Encryption (DSE) has emerged as a solution to efficiently handle and protect large-scale data storage in encrypted databases (EDBs). Volume leakage poses a significant threat, as it enables adversaries to reconstruct search queries and potentially compromise the security and privacy of data. Padding strategies are common countermeasures for the leakage, but they significantly increase storage and communication costs. In this work, we develop a new perspective to handle volume leakage. We start with distinct search and further explore a new concept called \textit{distinct} DSE (\textit{d}-DSE).
