@@ -1,5 +1,5 @@
 ---
-title: "CRYPTAI LAB"
+title: "CRYPTAI LAB Brief Intro"
 collection: portfolio
 ---
 
