@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "d-DSE: Distinct Dynamic Searchable Encryption Resisting Volume Leakage in Encrypted Databases"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+venue: 'USENIX Security (A* conference)'
+paperurl: 'https://arxiv.org/abs/2403.01182'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Dynamic Searchable Encryption (DSE) has emerged as a solution to efficiently handle and protect large-scale data storage in encrypted databases (EDBs). Volume leakage poses a significant threat, as it enables adversaries to reconstruct search queries and potentially compromise the security and privacy of data. Padding strategies are common countermeasures for the leakage, but they significantly increase storage and communication costs. In this work, we develop a new perspective to handle volume leakage. We start with distinct search and further explore a new concept called \textit{distinct} DSE (\textit{d}-DSE).
+We also define new security notions, in particular Distinct with Volume-Hiding security, as well as forward and backward privacy, for the new concept. Based on \textit{d}-DSE, we construct the \textit{d}-DSE designed EDB with related constructions for distinct keyword (d-KW-\textit{d}DSE), keyword (KW-\textit{d}DSE), and join queries (JOIN-\textit{d}DSE) and update queries in encrypted databases. We instantiate a concrete scheme \textsf{BF-SRE}, employing Symmetric Revocable Encryption. We conduct extensive experiments on real-world datasets, such as Crime, Wikipedia, and Enron, for performance evaluation. The results demonstrate that our scheme is practical in data search and with comparable computational performance to the SOTA DSE scheme (\textsf{MITRA}*, \textsf{AURA}) and padding strategies (\textsf{SEAL}, \textsf{ShieldDB}). Furthermore, our proposal sharply reduces the communication cost as compared to padding strategies, with roughly 6.36 to 53.14x advantage for search queries. 
