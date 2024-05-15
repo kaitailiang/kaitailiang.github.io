@@ -45,7 +45,7 @@ Conference contributions:
 
 - [ESORICS 2023](https://esorics2023.org/) general chair and TPC member 2018 - 2022, 2024, 
 
-- [PoPETs](https://petsymposium.org/cfp24.php) editorial board member 2024, 
+- [PoPETs](https://petsymposium.org/cfp24.php) editorial board member 2024/2025, 
 
 - [SecureComm 2022](https://securecomm.eai-conferences.org/2022/) general chair,
 
