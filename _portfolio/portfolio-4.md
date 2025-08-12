@@ -5,7 +5,10 @@ collection: portfolio
 
 Recent and selected papers
 =====
-
+- LADDER: Multi-Objective Backdoor Attack via Evolutionary Algorithm, NDSS (A* conference) 2025. 
+- MUDGUARD: Taming Malicious Majorities in Federated Learning using Privacy-preserving Byzantine-robust Clustering, SIGMETRICS (A* conference) 2025.  
+- Athena: Accelerating KeySwitch and Bootstrapping for Fully Homomorphic Encryption on CUDA GPU ESORICS (A conference) 2025. 
+- Low-Frequency Black-Box Backdoor Attack via Evolutionary Algorithm, WACV (A conference) 2025.
 - d-DSE: Distinct Dynamic Searchable Encryption Resisting Volume Leakage in Encrypted Databases, accepted by USENIX Security (A* conference) 2024.
 - Similar Data is Powerful: Enhancing Inference Attacks on SSE with Volume Leakages, accepted by ESORICS (A conference) 2024. 
 - Query Recovery from Easy to Hard: Jigsaw Attack against SSE, accepted by USENIX Security (A* conference) 2024. 
