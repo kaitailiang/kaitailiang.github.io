@@ -63,7 +63,9 @@ Associate editor:
 
 - [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications) (2022 - current), 
 
-- [IEEE Open Journal of the Communication Society](https://www.comsoc.org/publications/journals/ieee-ojcoms) (2023 - current), 
+- [IEEE Open Journal of the Communication Society](https://www.comsoc.org/publications/journals/ieee-ojcoms) (2023 - current),
+
+- [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq) (2025 - current), 
 
 - [IEEE Transactions on Artificial Intelligence](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) (2021 - current), 
 
