@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a> or <a href="https://dblp.org/pid/126/6037.html">DBLP</a>. </div>
+  <div class="wordwrap">Please access the full list of my papers on <a href="{{site.author.googlescholar}}">Google Scholar</a> or <a href="https://dblp.org/pid/126/6037.html">DBLP</a>. </div>
 {% endif %}
 
 Below there are several recent publications. 
