@@ -59,9 +59,9 @@ Conference contributions:
 
 Associate editor: 
 
-- [The Computer Journal](https://academic.oup.com/comjnl/pages/Editorial_Board) (2021-current), 
+- [The Computer Journal](https://academic.oup.com/comjnl/pages/Editorial_Board) (2021-now), 
 
-- [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications) (2022 - current), 
+- [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications) (2022-now), 
 
 - [IEEE Open Journal of the Communication Society](https://www.comsoc.org/publications/journals/ieee-ojcoms) (2023-now),
 
