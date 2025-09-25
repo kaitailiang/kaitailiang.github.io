@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor in cybersecurity and lead the CRYPTAI Lab. I earned my PhD in Computer Science from CityU Hong Kong. I held several academic positions, including as an information security research intern at A*STAR, a postdoctoral researcher at Aalto University, and an academic visitor at universities, e.g., UCL and Northwest University. I was an assistant professor in secure systems at the University of Surrey. 
+I am an associate professor in cybersecurity at UTU and hold an adjunct position in TU Delft where I lead the CRYPTAI Lab. I earned my PhD in Computer Science from CityU Hong Kong. I held several academic positions, including as an information security research intern at A*STAR, a postdoctoral researcher at Aalto University, and an academic visitor at universities, e.g., UCL and Northwest University. I was an assistant professor in secure systems at the University of Surrey. 
 
 Since 2020, I've gained recognition within the cybersecurity and ICT communities. I've secured European funding for several high-impact projects related to cybersecurity and AI, serving as PI and accumulating over 2.5 million euros in funding. My research has led to real-world impact through collaborations, e.g., IBM, Fujitsu, NEC, BIBA, ATOS, with use cases, e.g., smart satellite (ASSURED, Greece), smart transportation (IRIS, Spain), and cross-border biometric data exchange (TENSOR, Portugal). 
 
