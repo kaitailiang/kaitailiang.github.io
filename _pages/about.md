@@ -41,15 +41,17 @@ Selected Academic Activities
 ------
 Conference contributions: 
 
-- [IEEE CSF](https://csf2024.ieee-security.org/) steering committee and general chair 2024, 
+- [IEEE CSF](https://csf2024.ieee-security.org/) steering committee and general chair 2024,
+
+- [IEEE EuroS&P](https://eurosp2023.ieee-security.org/) general chair 2023 and PC member 2024,
+
+- [ESORICS](https://esorics2023.org/) general chair 2023 and PC member 2019-2022, 2024, 2025, 2026 
 
 - [ACM CCS](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html) publicity chair 2024, PC member 2025, 
 
-- [USENIX Security](https://www.usenix.org/conference/usenixsecurity24) PC member 2024, 2026, 
+- [USENIX Security](https://www.usenix.org/conference/usenixsecurity24) PC member 2024, 2026,
 
-- [IEEE EuroS&P](https://eurosp2023.ieee-security.org/) general chair 2023 and PC member 2024, 
-
-- [ESORICS](https://esorics2023.org/) general chair 2023 and PC member 2019-2022, 2024, 2025 
+- [WWW](https://www2026.thewebconf.org/) PC member 2026, 
 
 - [PoPETs](https://petsymposium.org/cfp24.php) editorial board member 2023, 2024, 2025, 2026 
 
