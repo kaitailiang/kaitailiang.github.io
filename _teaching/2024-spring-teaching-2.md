@@ -3,8 +3,8 @@ title: "Privacy Preserving Technologies"
 collection: teaching
 type: "MSc course"
 permalink: /teaching/2024-spring-teaching-2
-venue: "EEMCS, TU DELFT"
-date: 2024-02-02
+venue: ""
+date: 2023/2024/2025
 ---
 
 Credits: 5EC
