@@ -3,9 +3,9 @@ title: "Hacking Lab "
 collection: group work
 type: "MSc course"
 permalink: /teaching/2024-spring-teaching-4
-venue: "EEMCS, TU Delft"
-date: 2024-01-01
-location: "Delft, The Netherlands"
+venue: ""
+date: 2022/2023/2024/2025
+location: ""
 ---
 
 Credits: 5EC
