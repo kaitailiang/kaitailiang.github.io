@@ -3,8 +3,8 @@ title: "Security and Cryptography"
 collection: teaching
 type: "MSc course"
 permalink: /teaching/2024-spring-teaching-1
-venue: "EEMCS, TU DELFT"
-date: 2024-01-01
+venue: ""
+date: 2023/2024
 ---
 
 Credits: 5EC
